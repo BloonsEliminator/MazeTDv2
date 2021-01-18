@@ -1,0 +1,11 @@
+Time Trial Mode Highscores:
+Player One
+600
+Player Two
+700
+Player Three
+800
+Player Four
+900
+Player Five
+1000

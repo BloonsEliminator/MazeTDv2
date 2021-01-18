@@ -1,0 +1,11 @@
+Survival Mode Highscores:
+Player One
+70
+Player Two
+65
+Player Three
+60
+Player Four
+50
+Player Five
+40
