@@ -1,6 +1,6 @@
 # MazeTD
 Maze-building Tower Defense Game for Grade 12 Final Coding Project in Java
-[![mazetd gameplay demo video](i.imgur.com/xz7kxHK.png)](https://youtu.be/Azjz-Dk3fXo)
+[![mazetd gameplay demo video](http://i.imgur.com/xz7kxHK.png)](https://youtu.be/Azjz-Dk3fXo)
 
 
 WELCOME TO THE MAZE TOWER DEFENSE GAME or MAZE TD
