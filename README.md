@@ -1,9 +1,7 @@
 # MazeTD
-Maze-building Tower Defense Game for Grade 12 Final Coding Project in Java
 [![mazetd gameplay demo video](http://i.imgur.com/xz7kxHK.png)](https://youtu.be/Azjz-Dk3fXo)
 
-
-WELCOME TO THE MAZE TOWER DEFENSE GAME or MAZE TD
+Welcome to MazeTD
 Redefine the map by building a maze with randomly generated towers to stop the onslaught of enemies!
 
 How to play:
