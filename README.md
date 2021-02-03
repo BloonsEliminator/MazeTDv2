@@ -1,5 +1,5 @@
 # MazeTD
-[![mazetd gameplay demo video](http://i.imgur.com/xz7kxHK.png)](https://youtu.be/Azjz-Dk3fXo)
+[![mazetd gameplay demo video](https://i.imgur.com/ZHog3cc.png)](https://youtu.be/Azjz-Dk3fXo)
 
 Welcome to MazeTD
 
