@@ -2,6 +2,7 @@
 [![mazetd gameplay demo video](http://i.imgur.com/xz7kxHK.png)](https://youtu.be/Azjz-Dk3fXo)
 
 Welcome to MazeTD
+
 Redefine the map by building a maze with randomly generated towers to stop the onslaught of enemies!
 
 How to play:
