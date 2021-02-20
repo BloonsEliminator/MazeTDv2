@@ -1,11 +1,11 @@
 # MazeTD
 [![mazetd gameplay demo video](https://i.imgur.com/ZHog3cc.png)](https://youtu.be/Azjz-Dk3fXo)
 
-Welcome to MazeTD
+## Welcome to MazeTD
 
 Redefine the map by building a maze with randomly generated towers to stop the onslaught of enemies!
 
-How to play:
+## How to play
 1. Select a game mode
 2. Place 5 towers to build your maze
 3. Keep only 1 tower / Combine only 1 tower up 1 tier if there is a duplicate / Repick towers if not used yet
@@ -13,29 +13,27 @@ How to play:
 5. Repeat steps 2-4 to continue building your maze
 6. Have fun!
 
+## Game Modes
+- SURVIVAL MODE: Complete 40 levels then survive as long as possible!
+- TIME TRIAL MODE: Complete 40 levels as fast as possible!
+- LAST STAND MODE: Deal the most amount of damage after 40 levels!
 
-Game Modes:
-SURVIVAL MODE: Complete 40 levels then survive as long as possible!
-TIME TRIAL MODE: Complete 40 levels as fast as possible!
-LAST STAND MODE: Deal the most amount of damage after 40 levels!
-
-
-Hotkeys:
-(T) - place towers/repick towers
-(R) - keep towers/remove walls
-(C) - combine towers
-(Q) - toggle hyper speed
-(H) - view highscores
-(esc) - return/exit game
+## Hotkeys
+- (T) place towers/repick towers
+- (R) keep towers/remove walls
+- (C) combine towers
+- (Q) toggle hyper speed
+- (H) view highscores
+- (esc) return/exit game
 
 
-Key changes since inital design
+## Key changes since inital design
 - Only 1 difficulty mode, but maintained the same 3 different game modes
 - Time Trial now tracks not only time spent in battle but also time spent in tower placement phase (essentially tracks real time)
 - 14 classes instead of the projected 7 classes
 
 
-Key additions since initial design:
+## Key additions since initial design
 Game Class:
 - Maintains a highscore system with 3 text files to store the top 5 scores of each game mode
 - Game mode can be selected and changed at any time within the game
@@ -56,7 +54,7 @@ Other Classes:
 - ScorePanel (new class): Shows highscores read from text files
 
 
-Known potential bugs/flaws:
+## Known potential bugs
 - projectiles may not always hit the center of their target enemy
 - enemy stats may display numbers with over 10 decimal places and get cut off
 - screen may lag or stutter in hyperspeed mode
